@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>About-AreaCode</title>
+    <g id="About-AreaCode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(9.000000, 6.000000)" fill="#95A1AC">
+            <path d="M15,24 C10.029,24 6,19.971 6,15 C6,10.029 10.029,6 15,6 C19.968,6 24,10.029 24,15 C24,19.971 19.968,24 15,24 M16.251,0.042 C15.837,0.015 15.42,0 15,0 C14.577,0 14.163,0.015 13.749,0.042 C0.915,0.897 -4.599,16.683 4.497,25.647 L15,36 L25.5,25.647 C34.596,16.683 29.085,0.897 16.251,0.042" id="Fill-2"></path>
+        </g>
+    </g>
+</svg>

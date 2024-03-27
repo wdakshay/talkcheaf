@@ -1,0 +1,1107 @@
+/*safari-css start*/
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+.clr01 img { background: #cfe9fd;}
+.clr02 img { background: #f7edce;}
+.clr03 img { background: #d4f1e1;}
+.clr04 img { background: #d4daf5;}
+.bgrclr1 { background: #d4d4fa;}
+.bgrclr2 { background: #cfe9fd;}
+.bgrclr3 { background: #f7edce;}
+.bgrclr4 { background: #ffdbda;}
+.bgrclr5 { background: #d4f1e1;}
+img.bgiconclr1 { background: #f7edce;}
+img.bgiconclr2 { background: #cfe9fd;}
+img.bgiconclr3 { background: #cfe9fd;}
+img.bgiconclr4 { background: #d4d4fa;}
+img.bgiconclr5 { background: #e1f5ea;}
+img.bgiconclr6 { background: #ffe9e8;}
+.employees_list01 ul.list-unstyled, .asking_accordian .panel-group { border-top: 1px solid #dfdfdf;}
+.employees_list01 ul li, .asking_accordian .panel-group .panel-default { border-bottom: 1px solid #dfdfdf;}
+.watch_video_sec { border-left: 1px solid #dfdfdf;}
+.feature_talk_table table tr { border-bottom: 1px solid #dfdfdf;}
+.bgimg_yellow01 { background: #fff5d9;}
+}
+/*safari-css end*/
+
+
+@media (min-width: 1400px) {
+
+
+.navigation01 ul li .submenu01::before {
+    left: 48.4%;
+}
+.navigation01 ul li .submenu02::before {
+    left: 43.4%;
+}
+}
+
+
+
+
+@media (max-width: 1400px) {
+
+
+
+}
+ 
+
+
+@media (max-width: 1300px) {
+	.support-list .item {
+    	padding: 32px 15px;
+	}
+	.support-list .item h5 {
+
+	}
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+
+.blog_iinner h3 { font-size: 24px; margin: 0 0 24px; min-height: 130px;}
+.blackbox01 { height: 480px;}
+section.apply_startup_01 .glowbox { min-height: 295px;}
+.app_download_box h3 { margin: 24px 0 0; min-height: 65px;}
+.bgimg_yellow01 { width: 100%; height: 400px;}
+.support-list .col-md-2 {
+	width: 30%;
+	margin-bottom: 15px;
+}
+.support-list .col-md-2 {
+	 margin-bottom: 25px;
+}
+.navigation01 ul li .submenu01::before {
+    left: 33.4%;
+}
+.mainheader.sticky + section .callinner {
+    padding: 18px 10px;
+     
+}
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+.container { padding-left: 20px; padding-right: 20px;}
+.navigation01 ul li { padding: 0 5px;}
+.list-inline { margin-left: 0;}
+.navigation01 ul li a { font-size: 16px;}
+.trybtn { width: 92px;}
+.custom_logo a img { max-width: 130px;}
+header.mainheader { padding: 20px 0;}
+.topbanner_txt h1 { font-size: 34px; line-height: 42px;}
+.topbanner_txt p { font-size: 18px; line-height: 22px;}
+h2.trusted-by-hundreds { margin: 0 0 25px;}
+section.business_callls { padding: 75px 0;}
+.glowbox .txtt h3 { font-size: 18px; margin: 15px 0;}
+.glowbox .txtt p { font-size: 14px; line-height: 20px;}
+.glowbox { padding: 15px;}
+h2.the-place-for-busine { font-size: 28px; line-height: 32px; margin: 0 0 40px;}
+section.fol_sales01 { padding-top: 100px;}
+h2.for-sales { font-size: 28px; line-height: 32px; margin: 0 0 20px;}
+section.fol_sales01 p { font-size: 16px; line-height: 21px; margin-bottom: 30px;}
+.dynamic_random { height: 60px; padding: 18px; font-size: 18px;}
+.spam_protection h3 { font-size: 18px; margin: 0 0 12px;}
+section.fol_sales01 .spam_protection p { font-size: 14px; line-height: 18px;}
+.web_learn { font-size: 14px; line-height: 24px;}
+section.fornon_profits { padding-top: 75px;}
+.startups_box .img { margin-top: 0;}
+.txt012 h3 { font-size: 21px; margin: 15px 0;}
+.txt012 p { font-size: 16px; line-height: 24px; margin-bottom: 20px;}
+a.learnmore_link { font-size: 16px;}
+.talkcheif_video { padding: 110px 0px 90px;}
+.talkvideo .video_ply014 { height: 300px;}
+.talkvideo button.watch_video { left: 38%; top: 40%;}
+section.looking_for_new_business { padding: 75px 0;}
+h2.looking-for-a-new-bu { font-size: 28px; line-height: 34px; margin-bottom: 15px;}
+section.looking_for_new_business p { font-size: 18px;}
+.experincebox { padding: 24px 40px;}
+.experincebox h3 { font-size: 24px; line-height: 32px; margin: 18px 0 25px;}
+.experincebox p.clr0002, .experincebox p.clr0001 { font-size: 18px;}
+section.local_numbers_01 { padding: 90px 0;}
+a.btnclor02, a.btnclor01 { font-size: 16px;}
+h2.local-numbers-from-o { margin: 0 auto 20px; font-size: 28px; line-height: 32px;}
+.localnumbers_list ul li { line-height: 48px;}
+section.subscribe_newsletter { background-size: 190px; padding: 60px 0px;}
+h2.subscribe-to-our-new { margin: 0 0 20px; font-size: 28px;}
+.footr_logo { padding-bottom: 61px;}
+.logo_wigits h3 { font-size: 20px;}
+.wigits ul li a { font-size: 16px; line-height: 40px;}
+.copyrights_section { padding: 54px 0 82px;}
+.copyrights_section ul li { padding: 0 15px 0px 0px;}
+.bettr_phon_system { padding-top: 63px; padding-bottom: 80px;}
+.ready-to-have-a-bett { font-size: 28px; line-height: 32px; margin: 0 0 32px;}
+
+section.center_features01 { padding: 140px 0 0;}
+h1.leading-call-center { margin: 0 0 24px; font-size: 34px; line-height: 40px; letter-spacing: -0.67px;}
+section.center_features01 p { font-size: 18px; margin-bottom: 16px;}
+.landingcall { padding: 64px 0 80px;}
+.callinner { padding: 32px 15px; box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); margin-bottom: 16px;}
+h2.phone-system { margin: 24px 0; font-size: 32px;}
+section.phonesystem_section p { font-size: 18px;}
+.blackbox01 { margin-top: 32px; height: 275px; width: auto; border-radius: 0; margin-left: -20px; margin-right: -20px; position: relative;}
+.blackbox01::after { content: 'Image'; position: absolute; color: #fff; left: 0; right: 0; top: 0; bottom: 0; display: inline-flex; justify-content: center; align-items: center; font-size: 18px;}
+section.tollfree_numbers { padding-top: 32px; padding-bottom: 60px;}
+.toll-free-numbers { margin: 0 0 16px;}
+.virtual_box { margin-bottom: 30px;}
+h1.how-can-we-help { font-size: 34px; line-height: 40px; margin: 0 0 24px;}
+section.howcanwehelp p { font-size: 18px;}
+.getsupport { padding-top: 70px;}
+section.howcanwehelp { padding: 140px 0 80px;}
+.suppo_box h3 { font-size: 23px; margin: 20px 0 16px; min-height: 65px;}
+section.howcanwehelp p { font-size: 15px;}
+.brows { font-size: 16px;}
+.blog_navigation .nav-tabs li a { padding: 6px 10px;}
+section.competitor-analysis01 p { font-size: 18px;}
+.competitor-analysis_inner { padding-top: 80px;}
+.analysis_box { box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); padding: 56px 8px;}
+section.apply_startup_01 .plceboxx { padding-top: 80px;}
+section.apply_startup_01 { padding: 112px 0 64px;}
+section.apply_startup_01 .glowbox { min-height: 165px;}
+section.talkcheif_vs_aircall { padding: 0 0 80px;}
+section.people_asking_faq h2 { font-size: 24px; line-height: 24px; margin: 0 0 40px;}
+.asking_accordian .panel-default .panel-title a { font-size: 16px; line-height: 24px; padding: 16px 24px 16px 0px;}
+.asking_accordian .panel-group .panel-collapse .panel-body p { font-size: 14px; line-height: 20px;}
+section.choose_talkcheif01 { padding: 80px 0 80px;}
+section.choose_talkcheif01 h2 { font-size: 32px; line-height: 40px;}
+.chhose_talk_inner { padding: 51px 0 0px;}
+.morden_inn h2.phone-system { font-size: 24px; line-height: 30px;}
+.morden_description { font-size: 18px; line-height: 26px; margin: 24px auto 0;}
+.morden_inn + .morden_inn { padding-top: 80px;}
+section.talkcheif_vs_aircall h2 { font-size: 24px; line-height: 24px;}
+.feature_talk_table { padding: 40px 0 0;}
+.feature_talk_table table tr td { font-size: 16px;}
+.feature_talk_table table tr th { font-size: 18px; line-height: 20px;}
+.bgimg_yellow01 { width: 100%; height: 235px;}
+.howcanwehelp.howcanwehelp-2 .suppo_box h3 {
+    min-height: unset !important;
+}
+.feature_talk_table-5 table {
+    background-color: transparent;
+    width: 1280px;
+}
+.support-list .col-md-2 {
+	width: 30%;
+	margin-bottom: 15px;
+}
+.navigation01 ul li .submenu01::before {
+    left: 31.4%;
+}
+.apply_startup_01 .col-md-6.pr-5 {
+    padding-right: 15px;
+}
+.talkvideo .video_ply014 {
+    height: 500px;
+}
+.mainheader.sticky + section .callinner {
+    padding: 18px 10px;
+     
+}
+
+}
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+
+.container { padding-right: 16px; padding-left: 16px;}
+.plceboxx .row, section.fornon_profits .row { display: block;}
+.talkvideo video { height: 300px;}
+.talkvideo button.watch_video { left: 41%; top: 35%; width: auto; height: auto; padding: 0; border: 0; background: transparent; max-width: 100%;}
+span.click_bar img { max-width: 24px;}
+.custom_logo a img { max-width: 116px;}
+header.mainheader { padding: 24px 0;}
+section.followup_lead { padding: 73px 0 64px;}
+.topbanner_txt { padding-top: 41px; text-align: center;}
+.topbanner_txt h1 { font-size: 32px; letter-spacing: -0.67px; line-height: 40px;}
+.topbanner_txt p { font-size: 18px; line-height: 24px; margin-bottom: 80px;}
+.esyto_use ul li { width: 100%; padding: 0; margin-bottom: 16px;}
+.list-inline { margin-left: 0;}
+.rectangle-copy { width: 100%;}
+.try-for-free { width: 100%;}
+h2.the-place-for-busine { font-size: 24px; line-height: 32px; margin: 0 0 48px;}
+section.business_callls { padding: 63px 0 42px;}
+.glowbox {padding: 48px 24px; margin-bottom: 16px; text-align: center;}
+.glowbox .txtt p { font-size: 16px;}
+.forsale_txt01 { padding-right: 0; text-align: center;}
+section.fol_sales01 { padding-top: 80px;}
+h2.for-sales { font-size: 32px; line-height: 40px; margin: 0px 0 32px;}
+section.fol_sales01 p { margin-bottom: 32px;}
+.for_callcenter01 .forsale_txt01 { padding-left: 0%;}
+.spam_protection { width: auto; max-width: none; border-radius: 0; background-color: #EDEFF1; padding: 24px 40px 112px; margin-right: -16px; margin-left: -16px; text-align: left;}
+.spam_protection h3 { color: #283445; font-size: 18px;}
+.myfirstimg01 { position: relative; margin-top: -96px; margin-bottom: 32px; background: #95a1ac; padding: 20px; border-radius: 6px;}
+.learnmorebtn { margin-top: 0;}
+section.forremote_turms .myfirstimg01 { padding: 40px 20px;}
+section.fornon_profits { padding-top: 80px;}
+.startups_box { box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); padding: 44px 24px 40px; text-align: center; margin-bottom: 16px;}
+.startups_box .img { margin-top: 0;}
+.txt012 h3 { font-size: 20px; line-height: 24px; margin: 24px 0 32px;}
+.txt012 p { font-size: 16px; line-height: 24px; margin-bottom: 32px;}
+.startups_box .learnmore_link { font-size: 14px;}
+.startups_box .learnmore_link img { max-width: 14px;}
+.talkcheif_video { padding: 80px 0px;}
+.talkvideo .video_ply014 { height: 404px; border-radius: 3px;}
+.talkvideo button.watch_video img { width: 48px; margin-right: 0; max-width: 100%;}
+section.looking_for_new_business { padding: 56px 0 40px;}
+h2.looking-for-a-new-bu { font-size: 24px; line-height: 32px;}
+section.looking_for_new_business p { font-size: 18px; margin-bottom: 0;}
+.new_experiances { padding-top: 40px;}
+.experincebox p.clr0001, .experincebox p.clr0002 { font-size: 16px; line-height: 16px;}
+.experincebox { padding: 24px; margin-bottom: 16px;}
+.experincebox h3 { font-size: 20px; line-height: 24px; margin: 24px 0;}
+a.btnclor01 { width: 130px; font-size: 16px; line-height: 16px;}
+a.btnclor02 { width: 145px; font-size: 16px; line-height: 16px;}
+section.local_numbers_01 { padding: 80px 0;}
+.localnumbers_list ul li { padding: 0 3px; line-height: 42px;}
+h2.local-numbers-from-o { margin: 0 auto 28px; font-size: 24px; line-height: 32px;}
+section.subscribe_newsletter { background-size: 180px; padding: 63px 0px 56px;}
+h2.subscribe-to-our-new { font-size: 24px; line-height: 32px;}
+.ready-to-have-a-bett { font-size: 24px; line-height: 32px; margin: 0 0 32px;}
+.bettr_phon_system { padding-top: 63px; padding-bottom: 80px;}
+.schedul_demo { max-width: 100%; height: 48px; font-size: 18px;}
+.footr_logo { padding-bottom: 61px;}
+.logo_wigits h3 { font-size: 18px;}
+.wigits ul li a { font-size: 14px; line-height: 40px;}
+.logo_wigits .col-md-3:nth-child(2n+1) { clear: both;}
+.wigits01, .wigits02 { margin-bottom: 45px;}
+.copyrights_section { padding: 54px 0 82px;}
+.copyrights_section ul li { padding: 0 15px 0px 0px;}
+
+section.center_features01 { padding: 104px 0 0;}
+h1.leading-call-center { margin: 0 0 24px; font-size: 32px; line-height: 40px; letter-spacing: -0.67px;}
+section.center_features01 p { font-size: 18px; margin-bottom: 16px;padding: 0 14px}
+.landingcall { padding: 64px 0 80px;}
+.callinner { padding: 32px 28px; box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); margin-bottom: 16px;}
+h2.phone-system { margin: 24px 0; font-size: 32px;}
+section.phonesystem_section p { font-size: 18px;}
+.blackbox01 { margin-top: 32px; height: 154px; width: auto; border-radius: 0; margin-left: -16px; margin-right: -16px; position: relative;}
+.blackbox01::after { content: 'Image'; position: absolute; color: #fff; left: 0; right: 0; top: 0; bottom: 0; display: inline-flex; justify-content: center; align-items: center; font-size: 18px;}
+section.tollfree_numbers { padding-top: 32px; padding-bottom: 60px;}
+.toll-free-numbers { margin: 0 0 16px;}
+.virtual_box { min-height: auto; margin-bottom: 24px;}
+
+h1.how-can-we-help { font-size: 32px; line-height: 40px; margin: 0 0 24px;}
+section.howcanwehelp p { font-size: 18px;}
+.getsupport { padding-top: 50px;}
+section.howcanwehelp { padding: 104px 0 54px;}
+.suppo_box { margin-bottom: 16px; box-shadow: 0 0 20px 4px rgba(209,218,225,0.65);}
+.suppo_box h3 { font-size: 24px; margin: 20px 0 16px;}
+section.howcanwehelp p { font-size: 15px; min-height: auto;}
+.brows { font-size: 16px;}
+.blog_iinner h3 { font-size: 20px; line-height: 26px; margin: 0 0 24px; min-height: auto;}
+.blog_iinner a { margin-top: 0;}
+.blog_iinner { margin-bottom: 16px;}
+.blog_iinner .img { margin-bottom: 16px;}
+.sidenavigation a { background: transparent;}
+.btn.trybtn:hover { background: transparent; color: #b8c0c5;}
+.terms-of-use { padding-top: 40px;}
+.terms_para01 h3 { margin: 0 0 16px; font-size: 20px; line-height: 24px;}
+.terms-of-use .terms_para01 p { font-size: 16px; line-height: 24px;}
+.terms_para01 + .terms_para01 { margin-top: 56px;}
+section.competitor-analysis01 p { font-size: 18px;}
+section.competitor-analysis50 p {
+  padding: 0 15px;
+}
+.competitor-analysis_inner { padding-top: 80px;}
+.analysis_box { box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); padding: 56px 15px;}
+.analysis_box a img { max-width: 149px; margin-top: 0; margin-bottom: 40px;}
+.vs-gole { margin-top: 0; margin-bottom: 0; margin-left: 96px; margin-right: 96px;}
+.vs-gole::before { height: 1px; width: 240px; position: absolute; left: unset;}
+.compititor_01 { text-align: center; padding-top: 40px;}
+.comparebtn { margin-top: 16px;}
+.compatible_inn { text-align: center;}
+.compatible_inn h2 { margin: 0 0 24px; font-size: 32px; line-height: 40px;}
+.article_name { margin-bottom: 24px;}
+.artical_description .para_inn p { font-size: 16px; line-height: 24px;}
+.para_inn + .para_inn { padding-top: 34px;}
+.leave_a_comment form .form-group { margin-bottom: 0;}
+.leave_a_comment form .form-group input, .leave_a_comment form .form-group textarea { margin-bottom: 16px;}
+.more_articles01 { padding-top: 80px;}
+h2.more-articles { margin: 0 0 24px;}
+section.apply_startup_01 form .form-group { margin-bottom: 0px;}
+section.apply_startup_01 form input { margin-bottom: 16px;}
+section.apply_startup_01 { padding: 112px 0 64px;}
+h1.apply-as-a-startup { font-size: 34px; line-height: 40px; text-align: center;}
+section.apply_startup_01 .plceboxx { padding-top: 80px;}
+section.apply_startup_01 .glowbox { margin-bottom: 16px;}
+section.requirments01 h2 { font-size: 24px; line-height: 30px; margin: 0 0 24px;}
+p.in-order-to-benefit { font-size: 16px; line-height: 23px;}
+.employees_list01 { padding-top: 40px;}
+.employees_list01 ul li { padding: 16px 0px; display: flex;}
+span.listxt { font-size: 16px;}
+.meet_requirmnt p { font-size: 16px; padding: 0 0px 24px;}
+.meet_requirmnt { padding-top: 16px;}
+section.requirments01 { padding: 0 0 80px;}
+section.apply_startup_01>.container>.row>.col-sm-6:nth-child(1) { padding-right: 15px;}
+section.choose_talkcheif01 { padding: 80px 0 80px;}
+section.choose_talkcheif01 h2 { font-size: 32px; line-height: 40px;}
+.chhose_talk_inner { padding: 51px 0 0px;}
+.morden_inn h2.phone-system { font-size: 24px; line-height: 30px;}
+.morden_description { font-size: 18px; line-height: 26px; margin: 24px auto 0;}
+.morden_inn + .morden_inn { padding-top: 80px;}
+section.talkcheif_vs_aircall h2 { font-size: 24px; line-height: 24px;}
+.feature_talk_table { padding: 40px 0 0;}
+.feature_talk_table table tr th { display: none;}
+.feature_talk_table table tr td { display: block; font-size: 16px; line-height: 20px; padding: 16px 0px; text-align: right; width: 60%; float: right; position: relative;}
+.feature_talk_table table tr td::before { content: attr(data-th); position: absolute; left: -66%; top: 16px;}
+.feature_talk_table table tr td + td { color: #10293B;}
+section.talkcheif_vs_aircall { padding: 0 0 80px;}
+section.people_asking_faq h2 { font-size: 24px; line-height: 24px; margin: 0 0 40px;}
+.asking_accordian .panel-default .panel-title a { font-size: 16px; line-height: 20px; padding: 16px 24px 16px 0px;}
+.asking_accordian .panel-group .panel-collapse .panel-body p { font-size: 14px; line-height: 20px;}
+.asking_accordian .panel-default .panel-title a::after { position: absolute; right: 0; top: 14px; font-size: 20px; line-height: 20px;}
+.flexrow { display: block;}
+section.solutions_sales01 { padding-bottom: 0;}
+.protct_yr_compny01 section.fol_sales01 { padding-top: 40px;}
+.protct_yr_compny01 h2.for-sales { font-size: 24px; line-height: 30px; margin: 0px 0 16px;}
+.protct_yr_compny01 .fol_sales01 p { margin-bottom: 16px; font-size: 16px; line-height: 21px;}
+section.key_features01 { padding: 80px 0 0;}
+section.key_features01 h2.for-sales { margin: 0 0 40px;}
+section.key_features01 .tollfree_numbers { padding: 0 0px;}
+section.all_solutions_pro h2.for-sales { margin-bottom: 40px;}
+section.all_solutions_pro .col-md-4 { margin-bottom: 16px;}
+
+.howcanwehelp.blog_page_01 {
+	padding: 105px 0 64px;
+}
+
+
+.howcanwehelp.blog_page_01 .blog_iinner {
+   padding: 16px 16px 16px;
+}
+.howcanwehelp.blog_page_01 .blog_iinner h3 {
+  margin: 0 0 16px;
+  font-size: 18px;
+}
+.howcanwehelp.blog_page_01 .getsupport {
+  padding-top: 66px;
+}
+.howcanwehelp.get_apps01 h1.how-can-we-help {
+  margin: 0 0 25px;
+}
+.howcanwehelp.get_apps01 .getsupport {
+    padding-top: 78px;
+}
+.howcanwehelp.get_apps01 .app_download_box {
+	padding: 32px 24px 24px;
+	margin-bottom: 20px;
+}
+.howcanwehelp.get_apps01 .suppo_box h3 {
+	font-size: 20px;
+	margin: 23px 0 0;
+}
+.howcanwehelp.get_apps01 .col-sm-4 {
+	width: 100%;
+}
+.sm-order-1 {
+	order: 1;
+}
+.sm-order-2 {
+	order: 2;
+}
+.sm-order-3 {
+	order: 3;
+}
+.sm-order-4 {
+	order: 4;
+}
+.sm-order-5 {
+	order: 5;
+}
+.howcanwehelp.get_apps01 {
+	padding: 96px 0 54px;
+}
+.howcanwehelp-2 h1.how-can-we-help{
+  margin: 0 0 29px;
+}
+section.howcanwehelp-2 p {
+    font-size: 18px;
+    padding: 0 6px;
+}
+.howcanwehelp-2 .getsupport {
+    padding-top: 79px;
+
+}
+section.howcanwehelp-2 .suppo_box p {
+	padding: 0;	
+}
+section.howcanwehelp-2 .suppo_box {
+	text-align: center;
+	padding: 40px 24px 37px;
+}
+section.howcanwehelp-2 .suppo_box h3 {
+   font-size: 20px;
+   margin: 13px 0 14px;
+}
+section.howcanwehelp-2 .suppo_box p {
+ 	font-size: 16px;
+}
+section.howcanwehelp-2 .col-sm-4 {
+	width: 100%;
+}
+.blog_navigation {
+	overflow-x: scroll;
+}
+.blog_navigation .nav-tabs {
+    border: 0;
+    text-align: center;
+    width: 711px;
+}
+.blog_navigation .nav>li>a {
+    position: relative;
+    display: block;
+    padding: 3px 11px;
+}
+.blog-menu {
+	display: block;
+}
+.se-tog-cont {
+	margin-top: -1px;
+}
+.blog_navigation {
+	width: auto;
+	display: block;	
+}
+.blog_navigation-6 {
+    display: none;
+}
+.howcanwehelp.article_page_01.article_page_10 {
+	padding: 53px 0 60px;
+}
+.article_page_01.article_page_10 .artimg {
+	 margin-bottom: 21px;
+}
+.article_page_01.article_page_10 .compatible_inn {
+	text-align: left;
+}
+.article_page_01.article_page_10 .support_date {
+	margin-bottom: 6px;
+}
+.article_page_01.article_page_10 .compatible_inn h2 {
+	  margin: 0 0 16px;
+}
+.article_page_01.article_page_10 .para_inn br {
+    display: none;
+}
+.article_page_01.article_page_10 .para_inn p {
+   margin-bottom: 12px;
+}
+.article_page_01.article_page_10 .para_inn + .para_inn-2 {
+    padding-top: 0;
+}
+.article_page_01.article_page_10 .para_inn h3 {
+	margin: 10px 0 16px;
+	font-size: 20px;
+	line-height: 24px;
+}
+.article_page_01.article_page_10 .authore_about {
+	margin-top: 14px;
+}
+.article_page_01.article_page_10 .about-pc {
+	display: none;	
+}
+.article_page_01.article_page_10 .pl-0 {
+	padding-left: 0;
+}
+.article_page_01.article_page_10 .about-mobail .col-xs-9.pl-0,.article_page_01.article_page_10 .about-mobail .col-xs-3 {
+	padding-top: 18px;
+}
+.article_page_01.article_page_10 .authore_about {
+	padding-top: 33px;
+}
+.article_page_01.article_page_10 .comment_authore span {
+	padding-bottom: 14px;
+	display: inline-block;
+}
+.article_page_01.article_page_10 .leave_a_comment h3 {
+	 margin: 0 0 13px;
+}
+.article_page_01.article_page_10 .leave_a_comment {
+    padding-top: 35px;
+}
+.more_articles01 {
+	padding-top: 76px;
+}
+.howcanwehelp .blog_iinner {
+    padding: 16px 16px 16px;
+}
+.howcanwehelp .blog_iinner h3 {
+    margin: 0 0 5px;
+    font-size: 18px;
+}
+section.howcanwehelp.Pricing-banner p {   
+    font-size: 18px;    
+    line-height: 24px;        
+    margin-top: 7px;
+}
+.Pricing-banner h1 {  
+  font-size: 32px;    
+  letter-spacing: 0;
+  line-height: 40px;    
+}
+.howcanwehelp.Pricing-banner {
+  padding: 76px 0 32px;
+  overflow: hidden;
+}
+.Pricing-banner .togul-menu {
+	padding-left: 0;
+}
+.Pricing-banner .arow-wrepar {
+	flex-wrap: wrap;
+	right: -26px;
+	  top: -64px;
+}
+.Pricing-banner .arow-wrepar img {
+  order: 2;
+  transform: rotateY(180deg);
+  margin-left: 52px;
+}
+.Pricing-banner .arow-wrepar span  {
+	display: block;
+	order: 1;
+	width: 100%;
+}
+.Pricing-banner .togul-menu {
+    margin-top: 108px;
+}
+.Pricing-banner .item-wrepar {
+   margin-top: 71px;
+}
+.Pricing-banner .itme {
+	margin-bottom: 16px;
+	height: auto;
+}
+.discounted-wrepar .item {
+	padding: 30px 24px;
+	width: auto;
+	margin-bottom: 16px;
+}
+.discounted-wrepar .row .col-md-6:last-child .item {
+	margin-bottom: 0;
+}
+.discounted-wrepar .row [class*="col"] {
+    padding: 0 15px;
+}
+.discounted-wrepar-co {   
+  padding: 71px 14px 96px;
+}
+.discounted-wrepar-co {
+   padding: 31px 14px 56px;
+}
+.discounted-wrepar .heding-wrepar h2 {
+	 font-size: 24px;
+	 line-height: 32px;
+}
+.discounted-wrepar-co .heding-wrepar {
+    padding-bottom: 29px;
+}
+.discounted-wrepar .item h6 img {
+	display: none;
+}
+.discounted-wrepar .item span {    
+	font-size: 16px;        
+	line-height: 16px;	
+}
+.discounted-wrepar .item p {       
+  line-height: 24px;
+  font-size: 20px;
+}
+.discounted-wrepar .item h6 {
+	margin-bottom: 16px;
+}
+.discounted-wrepar .item .btn-wrepar {
+    margin-top: 24px;
+}
+.discounted-wrepar .btn-wrepar .them-btn {
+    height: 48px;
+    min-width: 128px;    
+    padding: 11px 15px;    
+    font-size: 16px;    
+}
+.discounted-wrepar {
+  margin-bottom: 71px;
+}
+section.people_asking_faq-2 {
+   padding-bottom: 71px;
+}
+.asking_accordian .panel-group .panel-collapse .panel-body p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.mobail-table h3 {
+	font-size: 18px;
+  color: #0F93F3;
+}
+.mobail-table p {	
+	color: #10293B;
+	font-family: Larsseit;
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 0;
+	line-height: 24px;
+	margin-bottom: 15px
+}
+.mobail-table td  {
+	width: 50%;
+	padding-bottom: 16px;
+}
+.mobail-table table {
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 24px;
+}
+.new-table {
+	border-top: solid 1px #C0C0C0;
+}
+.about-mobail {
+    display: block;
+}
+.howcanwehelp.blog_page_15sec .getsupport {
+    padding-top: 56px;
+}
+.howcanwehelp.blog_page_15sec .blog_navigation {
+  height: 57px;
+}
+.search-forms.open-wre {   
+   width: 100%;
+}
+.howcanwehelp.get_apps01-20 p {
+   font-size: 18px;
+}
+.howcanwehelp.article_page_01.article_page_10 button.submitbtn013 {
+  font-size: 18px;
+  width: 100%;
+  height: 48px;
+}
+.talkcheif_vs_aircall-2-10 {
+	display: none;
+}
+.mobail-table {
+	display: block;
+}
+.mobail-table td:last-child {
+	text-align: center;
+}
+.mobail-table {
+    padding-bottom: 34px;
+}
+section.center_features01 .callinner {
+	padding: 32px 28px 20px;
+}
+.mobail {
+    display: block;
+}
+.difolt {
+	display: none;
+}
+.howcanwehelp.competitor-analysis50 {
+	padding: 104px 0 70px;
+}
+.dextob-table {
+	display: none;
+}
+.mobail-table {
+	display: block;
+}
+.feature_talk_mob table tr th:nth-child(1) {
+    width: 38%;
+}
+.feature_talk_mob table tr th,.feature_talk_mob table tr td {
+	display: table-cell;
+}
+.feature_talk_mob table tr th {  
+    font-size: 17px;
+    line-height: 24px;
+    padding-bottom: 23px;
+}
+.feature_talk_mob table tr td:nth-child(1) {
+    width: 38%;
+    color: #10293B;
+}
+.feature_talk_mob table tr td {
+    width: 30%;
+    padding: 16px 0;
+    color: #718190;
+}
+.feature_talk_mob {
+	margin-top: 35px;
+}
+.feature_talk_mob table tr {
+    border-bottom: 1px solid #dfdfdf;
+    width: 100%;
+    display: table;
+}
+.feature_talk_mob img {
+  height: 24px;
+  width: 24px;
+}
+.feature_talk_mob.mobail-table {
+    padding-bottom: 0;
+    margin-bottom: 3px;
+}
+.howcanwehelp.legal_page_01-20 {
+   padding: 106px 0 63px;
+}
+.howcanwehelp.legal_page_01-20 .terms-of-use {
+    padding-top: 58px;
+}
+.legal_page_01-20 .terms-of-use .terms_para01 p {
+    margin-bottom: 6px;
+}
+section.people_asking_faq.people_asking_faq-4 {
+    padding-top: 108px;
+}
+.talkcheif_vs_aircall-2.talkcheif_vs_aircall-2-10.talkcheif_2-20 {
+	display: block;
+}
+.feature_talk_table-5 table {
+    background-color: transparent;
+    width: 1340px;
+}
+.talkcheif_2-20 .feature_talk_table-5 table tr th {
+    font-size: 15px;
+    text-align: left;
+    padding: 15px;
+}
+.talkcheif_vs_aircall-2.talkcheif_2-20 .feature_talk_table-5 table tr th:nth-child(1) {
+	font-size: 15px;
+}
+.talkcheif_vs_aircall-2.talkcheif_2-20 .feature_talk_table-5 table tr td:nth-child(1) {
+    font-size: 16px;
+}
+.talkcheif_2-20 .feature_talk_table-5 table tr td {
+  font-size: 13px;
+  line-height: 22px;
+  padding: 13px 15px;
+  text-align: left;
+}
+.talkcheif_vs_aircall-2.talkcheif_2-20 .feature_talk_table-5 table tr td:nth-child(1) {
+    font-size: 16px;
+}
+.feature_talk_table-5 table {
+  background-color: transparent;
+  width: 1280px;
+}
+.howcanwehelp.legal_page_01-20 .terms-of-use {
+    padding-top: 28px;
+}
+.terms-of-use .terms_para01 p {
+    font-size: 14px;
+    line-height: 19px;
+}
+.terms_para01 + .terms_para01 {
+    margin-top: 21px;
+}
+.legal_page_01-20 .terms-of-use .terms_para01 p + br {
+	display: none;
+}
+.terms_para01 ul {
+	padding-left: 18px;
+}
+.howcanwehelp.legal_page_01-20 {
+    padding: 106px 0 0;
+}
+.talkcheif_2-20 .feature_talk_table-5 {
+    padding: 10px 0 0;
+}
+.howcanwehelp.legal_page_01-20.legal_page_01-50 {
+	 padding: 0 0 0;
+}
+.howcanwehelp.legal_page_01-20 .terms-of-use {
+ padding-bottom: 0;
+ margin-bottom: 0;
+}
+.talkcheif_vs_aircall.talkcheif_vs_aircall-2 .feature_talk_table-9 table {
+    width: 560px;
+}
+.terms_para01 ul li {
+    max-width: 100%;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 3px;
+}
+.support-list .col-md-2 {
+	width: 50%;
+	margin-bottom: 15px;
+}
+.order-2-md {
+	order: 2;
+}
+.order-1-md {
+	order: 1;
+}
+.support-list-info p {
+	font-size: 18px;
+	line-height: 24px;
+}
+.claints-wrepar {
+	padding-top: 0;
+}
+.support-list-info {    
+    padding: 0 21px 32px;
+}
+.support-list-wr {
+    padding: 0 15px 59px;
+}
+.support-list .item p {
+	font-size: 16px;
+}
+.support-list .item {
+   padding: 24px 24px;
+}
+.support-list {
+	padding: 0 0 69px;
+}
+.container-2 {
+	padding: 0;
+}
+.sidenavigation {
+  height: 100%;
+  width: 0;
+  position: absolute;
+  z-index: 999;
+  top: 101%;
+  left: 0;
+  background-color: #fff;
+  overflow-x: scroll;
+  transition: 0.5s;
+  padding-top: 0;
+  height: 430px;
+  width: 100%;
+  padding-bottom: 40px;
+}
+header.mainheader .col-xs-3 {
+	position: unset;
+}
+.sidenavigation a {
+	color: #10293B;
+}
+.sidenavigation.mobail {
+	display: none;
+}
+.sidenavigation {
+	display: none;
+}
+.sidenavigation a {    
+  color: #10293B;
+  font-family: Larsseit;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 24px;
+  padding: 16px  24px 16px;
+  border-bottom:solid 1px #EDEFF1;
+  height: auto;
+}
+
+span.click_bar-2 {
+  line-height: 13px;
+  display: inline-block;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.35s;  
+
+}
+
+.mobail-icon {
+	position: relative;
+    display: inline-block;
+}
+
+span.click_bar-2 a {
+	font-size: 34px;
+}
+/*.btns {
+	position: sticky;
+	bottom: 0;
+}*/
+.free-try,.free-try a {
+	display: block;
+	width: 100%;
+}
+.sidenavigation .log-in-2 {
+	text-align: center;
+}
+.sidenavigation .log-in-2 a {
+	height: 48px !important;
+	width: 288px !important;
+	height: 24px;
+	width: 49px;
+	color: #10293B;
+	border: 2px solid #10293B;
+	font-family: Larsseit;
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 0;
+	line-height: 10px;
+	text-align: center;
+	display: inline-block;
+	margin: 0 auto;
+	border-radius: 6px;
+	margin-bottom: 12px;
+}
+.btns .trybtn {
+  height: 48px;
+  width: 288px;
+  border-radius: 6px;
+  background-color: #0F93F3;
+  color: #FFFFFF;
+  font-family: Larsseit;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16px;
+  text-align: center;
+  margin: 0 auto;
+}
+.btns {
+	margin-top: 39px;
+}
+.arrow-icon-1 {
+	position: relative;
+}
+.arrow-icon-1:after {
+    background-image: url(../images/arrow-icon-1.png);
+    height: 16px;
+    width: 16px;
+    position: absolute;
+    left: auto;
+     top: 21px;
+    right: 24px;
+    content: "";
+    background-size: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.sidenavigation a:hover,.sidenavigation a:focus {
+	color: #0f93f3;
+}
+
+.mobail-icon.mobail-icon-s .click_bar.click_bar-2 {
+  visibility: visible;
+  opacity: 1;
+  transition-delay: 0.40s;
+}
+.mobail-icon.mobail-icon-s .click_bar {
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.35s;    
+}
+header.mainheader .list-unstyled {
+	border-top: solid 1px #edeff1;
+}
+header.mainheader.sticky .list-unstyled {
+	border-top: 0;
+}
+.blog_navigation .nav-tabs li.difolt {
+    display: none;
+}
+.blog_navigation .nav-tabs li.mobail {
+	display: inline-block;
+}
+.btn-posi {
+    position: unset;    
+}
+section.key_features01 {
+    padding-bottom: 64px !important;
+}
+.sidenavigation a img {
+	padding: 3px;
+	width: 24px;
+	border-radius: 100%;
+	margin-right: 7px;
+}
+ul.dorp-me-2 {
+	padding-left: 0;
+}
+ul.dorp-me-2 li {
+	list-style: none;
+}
+.sidenavigation ul.dorp-me-2 li a {
+	border: none;
+} 
+ul.dorp-me-2 li a {
+    padding-bottom: 0;
+    padding-top: 23px;
+}
+.sidenavigation ul.dorp-me-2 li:last-child a {
+	padding-bottom: 20px;
+	border-bottom: solid 1px #EDEFF1;
+}
+.schedule_demo01 .form-group-2 {
+    margin-top: 15px;
+}
+.sidenavigation .dorp-mesec-52 a img {
+    padding: 0;
+    width: 18px;
+    border-radius: 100%;
+    margin-right: 7px;
+}
+.mobail-none {
+  display: none;
+}
+.apply_startup_01 .col-md-6.pr-5 {
+    padding-right: 15px;
+}
+.mainheader.sticky + section .features_box_v {
+    top: 73px;
+    right: 0px;
+    left: 0;
+}
+.mainheader.sticky + section .features_box_v {
+    position: static;
+     
+}
+.mainheader.sticky + .center_fix_box_container {
+    padding: 104px 0;
+
+}
+
+}
+
+@media (max-width: 479px) {
+
+.blog_navigation .nav-tabs li { width: auto;}
+.authore_about .img01 { padding-top: 0;}
+.mobile-app-downlod .modal-dialog  {
+	margin: 17px 0;
+}
+.support-list .col-md-2 {
+	width: 100%;
+	margin-bottom: 15px;
+}
+.claints-wrepar {
+    padding-top: 0;
+}
+.claints-wrepar {
+	 margin-bottom: 32px;
+}
+span#wistia-6twz3woxyz-2 {
+  display: inline-block;
+  height: 109px !important;
+  position: relative !important;
+  width: 238px !important;
+}
+.talkvideo .video_ply014 { height: 154px; border-radius: 3px;}
+}
+
+
+
+
+
+
+
+

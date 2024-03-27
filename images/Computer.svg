@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Computer</title>
+    <g id="Computer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4,15 L20,15 L20,6 L4,6 L4,15 Z M21.17,4 L2.8295,4 C2.37,4 2,4.37 2,4.83 L2,16.17 C2,16.63 2.37,17 2.8295,17 L11,17 L11,19 L7,19 L7,21 L17,21 L17,19 L13,19 L13,17 L21.17,17 C21.63,17 22,16.63 22,16.17 L22,4.83 C22,4.37 21.63,4 21.17,4 L21.17,4 Z" id="Fill-2" fill="#D7A409"></path>
+    </g>
+</svg>

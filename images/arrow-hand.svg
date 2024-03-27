@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow Hand</title>
+    <g id="Arrow-Hand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="image" transform="translate(3.000000, 5.000000)" fill="#0F93F3" fill-rule="nonzero">
+            <path d="M6.9,27.2 C7.1,25.3 9.9,19.9 11.2,17.9 C13.6,14.4 16,11.9 19.2,9.6 C26.5,4.5 33.5,4.2 34.4,3.5 C35.1,2.8 35.1,1.8 34.4,1.3 C33.5,0.5 31,1.4 30,1.6 C19.6,4.2 11.1,10.5 6.3,20.7 C5.6,22.2 5,24.1 4.3,25.5 C3.2,23.4 5.4,18.8 3,18.3 C2,18 1.3,18.9 1.1,19.9 C0.8,22.1 1.1,28.7 2.2,30 C4,32.3 9.8,29.5 12.2,28 C13,27.6 14,27.2 14,26.2 C14,24.9 12.8,24.4 11.9,24.9 C10.8,25.3 8.2,27.1 6.9,27.2 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

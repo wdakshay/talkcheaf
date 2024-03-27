@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow</title>
+    <g id="Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) translate(2.000000, 4.000000)" fill="#0F93F3">
+            <polygon id="Fill-2" points="19.9993 8.999 4.4193 8.999 9.6793 14.259 8.2593 15.679 0.5893 7.999 8.4793 0.109 9.8903 1.519 4.4193 6.999 19.9993 6.999"></polygon>
+        </g>
+    </g>
+</svg>

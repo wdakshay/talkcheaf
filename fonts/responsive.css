@@ -1,0 +1,225 @@
+@media (min-width: 1400px) {
+
+
+
+}
+
+
+
+
+@media (max-width: 1400px) {
+
+
+
+}
+ 
+
+
+
+
+@media (max-width: 1199px) and (min-width: 992px) {
+
+.blog_iinner h3 { font-size: 24px; margin: 0 0 24px; min-height: 130px;}
+.blackbox01 { height: 480px;}
+.app_download_box h3 { margin: 24px 0 0; min-height: 65px;}
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+.container { padding-left: 20px; padding-right: 20px;}
+.navigation01 ul li { padding: 0 5px;}
+.list-inline { margin-left: 0;}
+.navigation01 ul li a { font-size: 16px;}
+.trybtn { width: 92px;}
+.custom_logo a img { max-width: 130px;}
+header.mainheader { padding: 20px 0;}
+.topbanner_txt h1 { font-size: 34px; line-height: 42px;}
+.topbanner_txt p { font-size: 18px; line-height: 22px;}
+h2.trusted-by-hundreds { margin: 0 0 25px;}
+section.business_callls { padding: 75px 0;}
+.glowbox .txtt h3 { font-size: 18px; margin: 15px 0;}
+.glowbox .txtt p { font-size: 14px; line-height: 20px;}
+.glowbox { padding: 15px;}
+h2.the-place-for-busine { font-size: 28px; line-height: 32px; margin: 0 0 40px;}
+section.fol_sales01 { padding-top: 100px;}
+h2.for-sales { font-size: 28px; line-height: 32px; margin: 0 0 20px;}
+section.fol_sales01 p { font-size: 16px; line-height: 21px; margin-bottom: 30px;}
+.dynamic_random { height: 60px; padding: 18px; font-size: 18px;}
+.spam_protection h3 { font-size: 18px; margin: 0 0 12px;}
+section.fol_sales01 .spam_protection p { font-size: 14px; line-height: 18px;}
+.web_learn { font-size: 14px; line-height: 24px;}
+section.fornon_profits { padding-top: 75px;}
+.startups_box .img { margin-top: 0;}
+.txt012 h3 { font-size: 21px; margin: 15px 0;}
+.txt012 p { font-size: 16px; line-height: 24px; margin-bottom: 20px;}
+a.learnmore_link { font-size: 16px;}
+.talkcheif_video { padding: 110px 0px 90px;}
+.talkvideo .video_ply014 { height: 300px;}
+.talkvideo button.watch_video { left: 38%; top: 40%;}
+section.looking_for_new_business { padding: 75px 0;}
+h2.looking-for-a-new-bu { font-size: 28px; line-height: 34px; margin-bottom: 15px;}
+section.looking_for_new_business p { font-size: 18px;}
+.experincebox { padding: 24px 40px;}
+.experincebox h3 { font-size: 24px; line-height: 32px; margin: 18px 0 25px;}
+.experincebox p.clr0002, .experincebox p.clr0001 { font-size: 18px;}
+section.local_numbers_01 { padding: 90px 0;}
+a.btnclor02, a.btnclor01 { font-size: 16px;}
+h2.local-numbers-from-o { margin: 0 auto 20px; font-size: 28px; line-height: 32px;}
+.localnumbers_list ul li { line-height: 48px;}
+section.subscribe_newsletter { background-size: 190px; padding: 60px 0px;}
+h2.subscribe-to-our-new { margin: 0 0 20px; font-size: 28px;}
+.footr_logo { padding-bottom: 61px;}
+.logo_wigits h3 { font-size: 20px;}
+.wigits ul li a { font-size: 16px; line-height: 40px;}
+.copyrights_section { padding: 54px 0 82px;}
+.copyrights_section ul li { padding: 0 15px 0px 0px;}
+.bettr_phon_system { padding-top: 63px; padding-bottom: 80px;}
+.ready-to-have-a-bett { font-size: 28px; line-height: 32px; margin: 0 0 32px;}
+
+section.center_features01 { padding: 140px 0 0;}
+h1.leading-call-center { margin: 0 0 24px; font-size: 34px; line-height: 40px; letter-spacing: -0.67px;}
+section.center_features01 p { font-size: 18px; margin-bottom: 16px;}
+.landingcall { padding: 64px 0 80px;}
+.callinner { padding: 32px 15px; box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); margin-bottom: 16px;}
+h2.phone-system { margin: 24px 0; font-size: 32px;}
+section.phonesystem_section p { font-size: 18px;}
+.blackbox01 { margin-top: 32px; height: 275px; width: auto; border-radius: 0; margin-left: -20px; margin-right: -20px; position: relative;}
+.blackbox01::after { content: 'Image'; position: absolute; color: #fff; left: 0; right: 0; top: 0; bottom: 0; display: inline-flex; justify-content: center; align-items: center; font-size: 18px;}
+section.tollfree_numbers { padding-top: 32px; padding-bottom: 60px;}
+.toll-free-numbers { margin: 0 0 16px;}
+.virtual_box { margin-bottom: 30px;}
+h1.how-can-we-help { font-size: 34px; line-height: 40px; margin: 0 0 24px;}
+section.howcanwehelp p { font-size: 18px;}
+.getsupport { padding-top: 70px;}
+section.howcanwehelp { padding: 140px 0 80px;}
+.suppo_box h3 { font-size: 23px; margin: 20px 0 16px;}
+section.howcanwehelp p { font-size: 15px;}
+.brows { font-size: 16px;}
+.blog_navigation .nav-tabs li a { padding: 6px 10px;}
+
+
+}
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+
+.container { padding-right: 16px; padding-left: 16px;}
+.plceboxx .row, section.fornon_profits .row { display: block;}
+.talkvideo video { height: 300px;}
+.talkvideo button.watch_video { left: 41%; top: 35%; width: auto; height: auto; padding: 0; border: 0; background: transparent; max-width: 100%;}
+span.click_bar img { max-width: 24px;}
+.custom_logo a img { max-width: 116px;}
+header.mainheader { padding: 24px 0;}
+section.followup_lead { padding: 73px 0 64px;}
+.topbanner_txt { padding-top: 41px; text-align: center;}
+.topbanner_txt h1 { font-size: 32px; letter-spacing: -0.67px; line-height: 40px;}
+.topbanner_txt p { font-size: 18px; line-height: 24px; margin-bottom: 80px;}
+.esyto_use ul li { width: 100%; padding: 0; margin-bottom: 16px;}
+.list-inline { margin-left: 0;}
+.rectangle-copy { width: 100%;}
+.try-for-free { width: 100%; background: #0f93f3; }
+h2.the-place-for-busine { font-size: 24px; line-height: 32px; margin: 0 0 48px;}
+section.business_callls { padding: 63px 0 42px;}
+.glowbox {padding: 48px 24px; margin-bottom: 16px; text-align: center;}
+.glowbox .txtt p { font-size: 16px;}
+.forsale_txt01 { padding-right: 0; text-align: center;}
+section.fol_sales01 { padding-top: 80px;}
+h2.for-sales { font-size: 32px; line-height: 40px; margin: 0px 0 32px;}
+section.fol_sales01 p { margin-bottom: 32px;}
+.for_callcenter01 .forsale_txt01 { padding-left: 0%;}
+.spam_protection { width: auto; max-width: max-content; border-radius: 0; background-color: #EDEFF1; padding: 24px 40px 112px; margin-right: -16px; margin-left: -16px; text-align: left;}
+.spam_protection h3 { color: #283445; font-size: 18px;}
+.myfirstimg01 { position: relative; margin-top: -96px; margin-bottom: 32px; background: #95a1ac; padding: 20px; border-radius: 6px;}
+.learnmorebtn { margin-top: 0;}
+section.forremote_turms .myfirstimg01 { padding: 40px 20px;}
+section.fornon_profits { padding-top: 80px;}
+.startups_box { box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); padding: 44px 24px 40px; text-align: center; margin-bottom: 16px;}
+.startups_box .img { margin-top: 0;}
+.txt012 h3 { font-size: 20px; line-height: 24px; margin: 24px 0 32px;}
+.txt012 p { font-size: 16px; line-height: 24px; margin-bottom: 32px;}
+.startups_box .learnmore_link { font-size: 14px;}
+.startups_box .learnmore_link img { max-width: 14px;}
+.talkcheif_video { padding: 80px 0px;}
+.talkvideo .video_ply014 { height: 154px; border-radius: 3px;}
+.talkvideo button.watch_video img { width: 48px; margin-right: 0; max-width: 100%;}
+section.looking_for_new_business { padding: 56px 0 40px;}
+h2.looking-for-a-new-bu { font-size: 24px; line-height: 32px;}
+section.looking_for_new_business p { font-size: 18px; margin-bottom: 0;}
+.new_experiances { padding-top: 40px;}
+.experincebox p.clr0001, .experincebox p.clr0002 { font-size: 16px; line-height: 16px;}
+.experincebox { padding: 24px; margin-bottom: 16px;}
+.experincebox h3 { font-size: 20px; line-height: 24px; margin: 24px 0;}
+a.btnclor01 { width: 130px; font-size: 16px; line-height: 16px;}
+a.btnclor02 { width: 145px; font-size: 16px; line-height: 16px;}
+section.local_numbers_01 { padding: 80px 0;}
+.localnumbers_list ul li { padding: 0 3px; line-height: 42px;}
+h2.local-numbers-from-o { margin: 0 auto 28px; font-size: 24px; line-height: 32px;}
+section.subscribe_newsletter { background-size: 180px; padding: 63px 0px 56px;}
+h2.subscribe-to-our-new { font-size: 24px; line-height: 32px;}
+.ready-to-have-a-bett { font-size: 24px; line-height: 32px; margin: 0 0 32px;}
+.bettr_phon_system { padding-top: 63px; padding-bottom: 80px;}
+.schedul_demo { max-width: 100%; height: 48px; font-size: 18px;}
+.footr_logo { padding-bottom: 61px;}
+.logo_wigits h3 { font-size: 18px;}
+.wigits ul li a { font-size: 14px; line-height: 40px;}
+.logo_wigits .col-md-3:nth-child(2n+1) { clear: both;}
+.wigits01, .wigits02 { margin-bottom: 45px;}
+.copyrights_section { padding: 54px 0 82px;}
+.copyrights_section ul li { padding: 0 15px 0px 0px;}
+
+section.center_features01 { padding: 104px 0 0;}
+h1.leading-call-center { margin: 0 0 24px; font-size: 32px; line-height: 40px; letter-spacing: -0.67px;}
+section.center_features01 p { font-size: 18px; margin-bottom: 16px;}
+.landingcall { padding: 64px 0 80px;}
+.callinner { padding: 32px 28px; box-shadow: 0 0 20px 4px rgba(209,218,225,0.65); margin-bottom: 16px;}
+h2.phone-system { margin: 24px 0; font-size: 32px;}
+section.phonesystem_section p { font-size: 18px;}
+.blackbox01 { margin-top: 32px; height: 154px; width: auto; border-radius: 0; margin-left: -16px; margin-right: -16px; position: relative;}
+.blackbox01::after { content: 'Image'; position: absolute; color: #fff; left: 0; right: 0; top: 0; bottom: 0; display: inline-flex; justify-content: center; align-items: center; font-size: 18px;}
+section.tollfree_numbers { padding-top: 32px; padding-bottom: 60px;}
+.toll-free-numbers { margin: 0 0 16px;}
+.virtual_box { min-height: auto; margin-bottom: 24px;}
+
+h1.how-can-we-help { font-size: 32px; line-height: 40px; margin: 0 0 24px;}
+section.howcanwehelp p { font-size: 18px;}
+.getsupport { padding-top: 50px;}
+section.howcanwehelp { padding: 104px 0 64px;}
+.suppo_box { margin-bottom: 16px; box-shadow: 0 0 20px 4px rgba(209,218,225,0.65);}
+.suppo_box h3 { font-size: 24px; margin: 20px 0 16px;}
+section.howcanwehelp p { font-size: 15px; min-height: auto;}
+.brows { font-size: 16px;}
+.blog_iinner h3 { font-size: 20px; line-height: 26px; margin: 0 0 24px; min-height: auto;}
+.blog_iinner a { margin-top: 0;}
+.blog_iinner { margin-bottom: 16px;}
+.blog_iinner .img { margin-bottom: 16px;}
+
+
+}
+
+
+
+
+
+@media (max-width: 479px) {
+
+.blog_navigation .nav-tabs li { width: 100%;}
+
+}
+
+
+
+
